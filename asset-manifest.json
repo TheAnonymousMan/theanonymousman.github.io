@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/TheAnonymousMan/theanonymousman.github.io/static/css/main.4951e0a3.chunk.css",
+    "main.js": "/TheAnonymousMan/theanonymousman.github.io/static/js/main.85997c8c.chunk.js",
+    "main.js.map": "/TheAnonymousMan/theanonymousman.github.io/static/js/main.85997c8c.chunk.js.map",
+    "runtime-main.js": "/TheAnonymousMan/theanonymousman.github.io/static/js/runtime-main.61eb9188.js",
+    "runtime-main.js.map": "/TheAnonymousMan/theanonymousman.github.io/static/js/runtime-main.61eb9188.js.map",
+    "static/css/2.ac4895e7.chunk.css": "/TheAnonymousMan/theanonymousman.github.io/static/css/2.ac4895e7.chunk.css",
+    "static/js/2.8ca5e1cb.chunk.js": "/TheAnonymousMan/theanonymousman.github.io/static/js/2.8ca5e1cb.chunk.js",
+    "static/js/2.8ca5e1cb.chunk.js.map": "/TheAnonymousMan/theanonymousman.github.io/static/js/2.8ca5e1cb.chunk.js.map",
+    "index.html": "/TheAnonymousMan/theanonymousman.github.io/index.html",
+    "precache-manifest.9551428e50833c106cec701163d32a4b.js": "/TheAnonymousMan/theanonymousman.github.io/precache-manifest.9551428e50833c106cec701163d32a4b.js",
+    "service-worker.js": "/TheAnonymousMan/theanonymousman.github.io/service-worker.js",
+    "static/css/2.ac4895e7.chunk.css.map": "/TheAnonymousMan/theanonymousman.github.io/static/css/2.ac4895e7.chunk.css.map",
+    "static/css/main.4951e0a3.chunk.css.map": "/TheAnonymousMan/theanonymousman.github.io/static/css/main.4951e0a3.chunk.css.map",
+    "static/js/2.8ca5e1cb.chunk.js.LICENSE.txt": "/TheAnonymousMan/theanonymousman.github.io/static/js/2.8ca5e1cb.chunk.js.LICENSE.txt",
+    "static/media/Back Home.png": "/TheAnonymousMan/theanonymousman.github.io/static/media/Back Home.6ae134f4.png",
+    "static/media/Box Shooter.png": "/TheAnonymousMan/theanonymousman.github.io/static/media/Box Shooter.ce6957ef.png",
+    "static/media/Everything Is Fine.png": "/TheAnonymousMan/theanonymousman.github.io/static/media/Everything Is Fine.90035932.png",
+    "static/media/Keep Clive Alive.png": "/TheAnonymousMan/theanonymousman.github.io/static/media/Keep Clive Alive.0e1e3921.png",
+    "static/media/Le Moi drawing Le Moi.png": "/TheAnonymousMan/theanonymousman.github.io/static/media/Le Moi drawing Le Moi.7820de26.png",
+    "static/media/Roller Madness.png": "/TheAnonymousMan/theanonymousman.github.io/static/media/Roller Madness.abd2a343.png",
+    "static/media/Solar System Simulation.png": "/TheAnonymousMan/theanonymousman.github.io/static/media/Solar System Simulation.c501a071.png",
+    "static/media/all.css": "/TheAnonymousMan/theanonymousman.github.io/static/media/fa-solid-900.8e1ed89b.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61eb9188.js",
+    "static/css/2.ac4895e7.chunk.css",
+    "static/js/2.8ca5e1cb.chunk.js",
+    "static/css/main.4951e0a3.chunk.css",
+    "static/js/main.85997c8c.chunk.js"
+  ]
+}
